@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/86fac6ec-6227-43e3-b286-25aaf9b91892" /># GalaxyVerse – Interactive Universe Explorer
+GalaxyVerse – Interactive Universe Explorer
 
 ## Project Overview
 
